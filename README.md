@@ -4,6 +4,7 @@ A machine learning project that provides personalized movie recommendations by a
 
 ## Project Overview
 This recommendation system leverages content-based filtering using movie metadata such as genres, plot, and keywords. By computing the similarity between movies, the system provides a list of similar movies based on user input.
+
 ![hi](https://www.heartoflongmont.org/wp-content/uploads/2019/02/Movie-Recommendation.jpg)
 
 ## Features
